@@ -17,7 +17,7 @@ L'algorithme procèdes par itération et à chaque itération, les réseaux sont
 # Résultats
 J'ai testé cet algorithme sur un problème simple : approcher le résultat de cette fonction (de **|R²** dans **|R**): ![Fonction](fonction_f.png)
 
-J'ai obtenu, après un entraînement de 20 minutes, un réseau qui approche la fonction de façon convainquante : ![résultat](200points_0.png)
+J'ai obtenu, après un entraînement de 20 minutes, un réseau qui approche la fonction de façon convainquante : (les axes ne sont pas à l'échelle!) ![résultat](200points_0.png)
 
 # Pistes pour le futur
 J'ai obtenu de bons résultats à un problème simple mais il apparaît que cet algorithme est trop lent pour être utilisé en pratique sur des problèmes plus complexes.
